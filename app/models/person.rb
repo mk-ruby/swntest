@@ -16,8 +16,4 @@ has_many :contact_numbers
 	
 	end
 	
-	
-	
-	
-	
 end
